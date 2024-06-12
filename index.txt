@@ -1,0 +1,1 @@
+Q: What is JVM?\nA: JVM stands for Java Virtual Machine, which is an engine that provides a runtime environment to execute Java bytecode.
